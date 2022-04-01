@@ -23,8 +23,8 @@ When Option:1 or 2 or 5 or 6 is selected - Data is inserted into the database an
   * Create user_table table: To store the login creds
   * Create customer_details table: To store the customer details (profile info)
   * Create transactions table: To store the transactions details (mini statement)
-  * Create Menu
-  * Create Mainbank
+  * Create menu
+  * Create mainbank and execute
   
 ![image](https://user-images.githubusercontent.com/79400175/161269191-b85ea247-a9d6-43be-8760-e333fbfd4b47.png)
 
